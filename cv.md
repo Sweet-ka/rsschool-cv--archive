@@ -1,4 +1,4 @@
-![Myphoto](https://github.com/Sweet-ka/Images.git/Myphoto.png) **Sviatlana Shaliankova**
+![Myphoto](https://github.com/Sweet-ka/Images/blob/main/Myphoto.png) **Sviatlana Shaliankova**
 ===
 ### **Address:**  
 213105 Vesennaya 1-49  
@@ -8,7 +8,7 @@ Belarus
 ### **Phone:**  
 +375(29) 6498954  
 
-![Instagramm](https://github.com/Sweet-ka/Images.git/Instagramm.jpg) @she_svet  
+![Instagramm](https://github.com/Sweet-ka/Images/blob/main/Instagramm.jpg) @she_svet  
 
 ----
 # About me
@@ -33,17 +33,17 @@ Accounting specialist
 # Skills
 >|Skill|Level|
 >|---|---|
->|MS Office|![45](https://github.com/Sweet-ka/Images.git/45.png)|
->|Java|![25](https://github.com/Sweet-ka/Images.git/25.png)|
->|JavaScript|![25](https://github.com/Sweet-ka/Images.git/25.png)|
->|HTML/CSS|![25](https://github.com/Sweet-ka/Images.git/25.png)|
->|English|![25](https://github.com/Sweet-ka/Images.git/25.png)|
+>|MS Office|![45](https://github.com/Sweet-ka/Images/blob/main/45.png)|
+>|Java|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
+>|JavaScript|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
+>|HTML/CSS|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
+>|English|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
 ---
 
 # Hobbies
 
-![Hanteln](https://github.com/Sweet-ka/Images.git/Hanteln.jpg)
-![Schuhe](https://github.com/Sweet-ka/Images.git/Schuhe.jpg)
-![Kopfhörer](https://github.com/Sweet-ka/Images.git/Kopfhörer.jpg)
-![Family](https://github.com/Sweet-ka/Images.git/Family.jpg)
+![Hanteln](https://github.com/Sweet-ka/Images/blob/main/Hanteln.jpg)
+![Schuhe](https://github.com/Sweet-ka/Images/blob/main/Schuhe.jpg)
+![Kopfhörer](https://github.com/Sweet-ka/Images/blob/main/Kopfhörer.jpg)
+![Family](https://github.com/Sweet-ka/Images/blob/main/Family.jpg)
  
