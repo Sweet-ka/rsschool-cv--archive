@@ -38,7 +38,6 @@ Accounting specialist
 |JavaScript|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
 |HTML/CSS|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
 |English|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
----
 
 # Hobbies
 
