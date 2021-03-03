@@ -31,13 +31,13 @@ Transport management engineer
 Accounting specialist
 
 # Skills
->|Skill|Level|
->|---|---|
->|MS Office|![45](https://github.com/Sweet-ka/Images/blob/main/45.png)|
->|Java|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
->|JavaScript|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
->|HTML/CSS|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
->|English|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
+|Skill|Level|
+|---|---|
+|MS Office|![45](https://github.com/Sweet-ka/Images/blob/main/45.png)|
+|Java|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
+|JavaScript|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
+|HTML/CSS|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
+|English|![25](https://github.com/Sweet-ka/Images/blob/main/25.png)|
 ---
 
 # Hobbies
