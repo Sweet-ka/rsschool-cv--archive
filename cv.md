@@ -1,9 +1,7 @@
 ![Myphoto](https://github.com/Sweet-ka/Images/blob/main/Myphoto.png) **Sviatlana Shaliankova**
 ===
 ### **Address:**  
-213105 Vesennaya 1-49  
-Veyno, Mogilevsky  
-Belarus  
+Mogilev, Belarus  
 
 ### **Phone:**  
 +375(29) 6498954  
