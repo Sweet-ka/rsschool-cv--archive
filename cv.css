@@ -1,0 +1,20 @@
+.column-details, .column-info {
+    border: solid blue;
+}
+
+.container {
+    background: rgb(157, 255, 0);
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    box-sizing: border-box;
+}
+.column-details {
+    display: flex;
+    flex-grow: 1;
+}
+
+.column-info {
+    flex-grow: 2;
+}
+
