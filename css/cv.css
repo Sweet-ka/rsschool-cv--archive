@@ -13,7 +13,7 @@ body {
     background-color: rgba(184, 188, 190, 0.87);
     width: 30%;
 }
-.column-info {
+.vert-line {
     margin: 2em;
     border-left: 2px solid #5d5f5f;
     width: 70%;
@@ -93,7 +93,7 @@ dt {
     border-radius: 50%;
     float: left;
     margin-top: 5px;
-    margin-left: -36px;
+    margin-left: -37px;
 }
 .dots{
     content: " ";
@@ -127,6 +127,11 @@ h3 {
 .images-hobbies{
     display: flex;
     flex-wrap: wrap;
+}
+.logo{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 20px 20px 0;
 }
 
 /*Responsive*/
