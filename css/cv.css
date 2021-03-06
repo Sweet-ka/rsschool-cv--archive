@@ -2,7 +2,6 @@ body {
     margin: 20px;
     font-family: 'Roboto Condensed', sans-serif;
 }
-
 .container {
     box-shadow: 0 0 20px 2px;
     width: 90%;
@@ -14,23 +13,19 @@ body {
     background-color: rgba(184, 188, 190, 0.87);
     width: 30%;
 }
-
 .column-info {
-    padding: 2em;
-    padding-left: 50px;
+    margin: 2em;
+    border-left: 2px solid #5d5f5f;
     width: 70%;
 }
-
 .column-info section{
     padding-left: 30px;
     margin-bottom: 50px;
 }
-
 header img {
     height: 25vw;
     width: 25vw;
 }
-
 .name {
     font-size: 4vw;
     text-transform: uppercase;
@@ -38,19 +33,15 @@ header img {
     letter-spacing: -0.05em;
     font-stretch: condensed;
 }
-
 .contacts {
     text-transform: uppercase;
-    
     font-size: 1.5em;
 }
-
 .contacts * {
     margin: 3em 0;
     letter-spacing: -0.05em;
     font-stretch: condensed;
 }
-
 address {
     font-style: normal;
 }
@@ -61,26 +52,15 @@ span {
     text-decoration: none;
     padding-bottom: 5px;
 }
-
 .insta * {
     margin-bottom: 0px;
     letter-spacing: -0.05em;
     font-stretch: condensed;
 }
-
 .insta {
     display: flex;
     align-items: flex-end
 }
-.vert-line:before{ 
-    content: " ";
-    background: #5d5f5f;
-    width: 2px;
-    height: 100%;
-    float: left;
-    margin-right: 10px;
-    }
-
 .line:before{
     content: " ";
     background: #5d5f5f;
@@ -89,27 +69,22 @@ span {
     border-radius: 50%;
     float: left;
     margin-top: 5px;
-    margin-left: -36px;
+    margin-left: -38px;
 }
 dl {
     border-left: 1px solid #5d5f5f;
-    margin-left: 40px;
-    padding-left: 30.5px;
+    padding-left: 2em;
 }
-
 dt {
     font-weight: bold;
 }
-
 .line-small{
     margin-top: 20px;
 }
-
 .organization {
     margin-top: 10px;
     font-weight:bold;
 }
-
 .line-small:before{
     content: " ";
     background: #5d5f5f;
@@ -120,34 +95,75 @@ dt {
     margin-top: 5px;
     margin-left: -36px;
 }
-
 .dots{
     content: " ";
     background: #000000;
-    width: 14px;
-    height: 14px;
+    width: 1em;
+    height: 1em;
     border-radius: 50%;
+    border: 1px solid #000000;
     margin: 3px;
 }
 .dots-empty{
     content: " ";
     background: #ffffff;
-    width: 12px;
-    height: 12px;
+    width: 1em;
+    height: 1em;
     border-radius: 50%;
     border: 1px solid #000000;
     margin: 3px;
 }
-
 .dot {
     display: flex;
 }
-
 .skill {
     display: flex;
+    flex-wrap: unset;
+}
+h3 {
+    flex:  0.5 0 0px;
+    margin: 0 0 0 35px;
+}
+.images-hobbies{
+    display: flex;
+    flex-wrap: wrap;
 }
 
-h3 {
-    margin: 0 10px 0 40px;
-    width: 100px;
+/*Responsive*/
+@media screen and (max-width: 768px){
+    .container{
+        display: block;
+    }
+    .column-details {
+        width: auto;
+    }
+}
+@media screen and (max-width: 576px){
+    .skill{
+        display: block;
+    }
+    .dot, h3 {
+        margin-left: 20px;
+    }
+    .contacts{
+        font-size: 1em;
+    }
+}
+@media screen and (max-width: 288px){
+    .dots, .dots-empty {
+        width: 0.5em;
+        height: 0.5em;
+    }
+    h3, dd {
+        font-size: 0.8em;
+    }
+    dd, dt {
+        margin-left: 0;
+    }
+    h1 {
+        font-size: 1em;
+    }
+    .insta {
+        display: block;
+    }
 }
